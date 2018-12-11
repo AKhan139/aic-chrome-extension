@@ -12,7 +12,7 @@ This is the CSS style page for the AIC Google Chrome New Tab Extension */
 	width: 80%;
 	align-content: left;
 	margin-left: 18%;
-	margin-top: 0%;
+	margin-top: 1%;
 	vertical-align: middle;
 }
 
@@ -65,7 +65,7 @@ a:visited {
 	width: 5%;
 	height: auto;
    	position: absolute;
-   	top: 2%;
+   	top: 3%;
    	right: 1%;
    	border: 1px solid black;
 }
