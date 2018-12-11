@@ -30,9 +30,8 @@ img {
 
 #tombstone {
 	font-family: "Ideal Sans", Ideal, sansserif;
-	line-height: 80%;
 	position: absolute;
-	bottom: 5%;
+	bottom: 4%;
 	left: 1%;
 }
 
@@ -68,6 +67,12 @@ a:visited {
    	top: 3%;
    	right: 1%;
    	border: 1px solid black;
+}
+
+.big {
+	color: gray;
+	font-family: "Ideal Sans", Ideal, sansserrif;
+	font-size: 18px;
 }
 
 
